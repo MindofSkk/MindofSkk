@@ -21,7 +21,7 @@
 <a href="https://fb.com/skksachinkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skksachinkumar" height="30" width="40" /></a>
 <a href="https://instagram.com/mind_of_skk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind_of_skk" height="30" width="40" /></a>
 <a href="https://medium.com/@helpmeskk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@helpmeskk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/skk vlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skk vlogs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/skk vlogs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skk vlogs1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
