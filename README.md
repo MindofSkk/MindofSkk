@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio65498as2.netlify.app/](https://portfolio65498as2.netlify.app/)
 
+<img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
+
 - 📝 I regularly write articles on [https://medium.com/@helpmeskk](https://medium.com/@helpmeskk)
 
 - 💬 Ask me about **React,Html,Css,Java Script**
