@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar Keshri</h1>
-<h3 align="center">A passionate Full Stack developer from India  Full Stack Developer With a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology.</h3>
+<h3 align="center"> Full Stack Developer With a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindofskk&label=Profile%20views&color=0e75b6&style=flat" alt="mindofskk" /> </p>
 
